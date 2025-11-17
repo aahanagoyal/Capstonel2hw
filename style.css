@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    font-family:cursive;
+
+}
+.topnav{
+    overflow:hidden;
+    background-color:darksalmon;
+
+}
+.topnav a{
+    float:left;
+    color:cornflowerblue;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration:none;
+    font-size:20px;
+}
+.topnav a:hover{
+    background-color:aquamarine;
+    color:black;
+}
+.topnav a.active{
+    background-color: aqua;
+    color:white;
+}
